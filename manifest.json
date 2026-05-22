@@ -1,0 +1,15 @@
+{
+  "name": "LarpEngine",
+  "description": "Client-side user profile spoofing for names, badges, and account creation dates.",
+  "authors": [
+    {
+      "id": "0",
+      "name": "User"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0",
+  "vendetta": {
+    "icon": "ic_person_24px"
+  }
+}
